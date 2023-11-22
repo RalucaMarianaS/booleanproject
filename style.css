@@ -1,0 +1,57 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+.container{
+    width: 60%;
+    margin: auto;
+  color: white;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 70px;
+ border-radius: 5px;
+}
+
+.logo1{
+    width: 250px;
+    margin-left: 30%;
+    
+}
+.logo-text{
+    font-size: 35px;
+    margin-left: 20%;
+    color: limegreen;
+  
+}
+nav{
+    background-color: limegreen;
+    padding: 10px;
+    text-align: center;}
+#titolo{
+    display: inline-block;
+    font-size: 25px;
+}
+h2, p {
+    margin:5px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.row{
+    font-size: 20px;
+}
+.barra-colorata1 {
+    width: 350px; 
+    height: 30px; 
+    background-color: rgb(240, 217, 17); 
+    border-radius: 10px; 
+}
+.barra-colorata2 {
+    width: 600px; 
+    height: 30px; 
+    background-color: rgb(43, 240, 17); 
+    border-radius: 10px; 
+}
+.barra-colorata3 {
+    width: 200px; 
+    height: 30px; 
+    background-color: rgb(240, 17, 17); 
+    border-radius: 10px; 
+}
